@@ -435,6 +435,7 @@
 
     .texto-sobre-imagem h2 {
         font-size: 1.625rem; 
+        margin-top: 150px;
     }
     
     .texto-sobre-imagem p {
@@ -473,6 +474,8 @@
         
         justify-content: center;
         margin: 0.65rem;
+        position: fixed;
+        margin-bottom: 30px;
     }
 
     .logos img {
