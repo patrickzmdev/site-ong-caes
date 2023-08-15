@@ -454,16 +454,18 @@
     .mensagem{
         width: 100%;
         height: 200px;
-        display: none;
+        position: center;
+        overflow: scroll;
     }
 
     .mensagem h1{
-        display: none;
+        font-size: 1.625rem;;
+        
     }
 
 
     .mensagem p{
-        overflow: scroll;
+        margin-left:3.75rem; 
     }
 
     #fundo-cao{
