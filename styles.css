@@ -407,6 +407,7 @@
     .logo img {
         max-height: 3.75rem;
         margin-left: 0.625rem;
+        margin-right: 0.625rem;
     }
 
     .top-nav ul {
@@ -498,7 +499,7 @@
     }
 
     .sobre-nos p{
-        margin: 0;
+        margin: 0.625rem;
 
     }
 
